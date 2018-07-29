@@ -1,0 +1,60 @@
+hr,
+h2 {
+  color: #7d97ad;
+}
+h1,
+h3 {
+  color: #2d3c49;
+  text-align: right;
+}
+
+hr {
+  border: 0;
+  height: 4px;
+  background-image: linear-gradient(
+    to right,
+    rgba(0, 0, 0, 0),
+    rgba(0, 0, 0, 0.75),
+    rgba(0, 0, 0, 0)
+  );
+}
+h1,
+h2,
+h3 {
+  font-family: Oregano;
+}
+.Logo {
+  height: 60px;
+  width: 210px;
+  float: left;
+}
+img {
+  height: 350px;
+}
+body {
+  padding: 50px;
+}
+
+p {
+  color: #2d3c49;
+  max-width: 100%;
+}
+.container {
+  text-align: center;
+}
+.Title {
+  color: #02b3e4;
+}
+.image {
+  width: 100%;
+  height: auto;
+}
+img,
+embed,
+object,
+video {
+  max-width: 100%;
+}
+.container a {
+  max-width: 100%;
+}
